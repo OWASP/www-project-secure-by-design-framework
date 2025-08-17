@@ -34,8 +34,36 @@ Before submitting a pull request, please make sure:
 
 5. Your pull request includes a clear and concise description of the changes you have made.
 
+### **Catalog Contributions**
+
+If you are contributing to the Secure-by-Design **Catalog of Best Practices, Patterns & Reference Architectures**, please also review the [contribution recommendations](https://owasp.org/www-project-secure-by-design-framework/) provided in the Catalog tab. These outline the expected structure, quality bar, and additional requirements for case submissions.
+
 ## Code of Conduct
 
 We ask that all contributors to OWASP projects abide by our [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct). This code outlines our expectations for behavior within the project community and helps us maintain a welcoming and inclusive environment for all contributors.
 
 Thank you for your interest in contributing to an OWASP project. We appreciate your efforts to help us improve and grow our projects.
+
+## **Review & Approval Process**
+
+The framework follows a two-tier review:
+
+1. Peer Review (Community)
+   - Any contributor may review and comment on PRs.
+   - Focus on clarity, accuracy, and alignment with SbD principles.
+2. Maintainer Approval
+   - Maintainers are responsible for merging changes.
+   - At least two maintainer approvals are required for substantive changes.
+   - Small editorial fixes (typos, formatting) may be merged with a single maintainer review.
+
+## **Governance Model**
+
+- **Maintainers** – Appointed from the contributor community; responsible for:
+  - Reviewing and merging PRs.
+  - Ensuring changes align with the framework’s scope and style.
+  - Coordinating releases.
+- **Community Contributors** – Anyone submitting PRs or issues; encouraged to:
+  - Participate in discussions.
+  - Share implementation feedback.
+  - Help triage issues.
+- **OWASP Liaison** – A designated contact to ensure alignment with OWASP’s overall mission and policies.
