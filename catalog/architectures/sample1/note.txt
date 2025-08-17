@@ -1,0 +1,8 @@
+
+
+sample1/
+   README.md
+   diagram.svg
+   design-notes.md
+   iac/          # optional: Terraform/Helm for a minimal deploy
+   tests/        # optional: smoke tests / postman / contract tests
