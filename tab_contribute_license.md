@@ -1,5 +1,5 @@
 ---
-title: Contribute & License
+title: Contribute and License
 layout: null
 tab: true
 order: 6
