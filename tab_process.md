@@ -3,7 +3,7 @@ title: Process
 layout: null
 tab: true
 order: 2
-tags: Secure-by-Design-Process, SbD-Process, Review-Process, Security-Review-Process, Design-Review-Process
+tags: secure-by-design
 ---
 
 ## Secure-By-Design Process

@@ -3,7 +3,7 @@ title: Contribute
 layout: null
 tab: true
 order: 6
-tags: Secure-by-Design-Contribution, Secure-by-Design-License
+tags: secure-by-design
 ---
 
 ## Contribution
