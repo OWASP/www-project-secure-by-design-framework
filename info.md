@@ -11,10 +11,9 @@
 
 ### Downloads (Draft 0.5.0)
 
-- [Download PDF](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
-- [Download Docx](<[#](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.docx?raw=true)>)
+- [PDF](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
+- [Docx](<[#](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.docx?raw=true)>)
 - [Checklist CSV](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/artifacts/OWASP-Secure-by-Design-Checklist.csv?raw=true)
-- [Principals CSV](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/artifacts/OWASP-Secure-by-Design-Principals.csv?raw=true)
 
 ### Change Log
 

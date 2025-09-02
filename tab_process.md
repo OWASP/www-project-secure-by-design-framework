@@ -6,7 +6,7 @@ order: 2
 tags: secure-by-design
 ---
 
-## Secure-By-Design Process
+## SbD Process
 
 The Secure-by-Design Process is the operational playbook for applying Secure-by-Design during the design phase and engaging with AppSec efficiently—without creating bottlenecks. It describes the end-to-end process, what a design review examines, when to escalate, how the SbD Review Checklist fits into the workflow, and the mechanics for handing off to AppSec.
 
@@ -81,7 +81,7 @@ Outputs typically include an updated threat model diagram, a prioritized risk re
 
 ### ◽ SbD Review Checklist — Usage
 
-It’s a quick, control‑oriented snapshot that communicates what’s in place and what needs work, enabling fast security team triage. Refer to tab Review Checklist, for more details.
+It’s a quick, control‑oriented snapshot that communicates what’s in place and what needs work, enabling fast AppSec team triage. Refer to tab Review Checklist, for more details.
 
 Each row includes: _(a)_ control name, _(b)_ Yes/No/N‑A, _(c)_ comment “how/where implemented” with links (ADR‑IDs, diagram anchors, policy refs), _(d)_ evidence link (optional).
 

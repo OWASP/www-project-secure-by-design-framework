@@ -6,9 +6,9 @@ order: 4
 tags: secure-by-design
 ---
 
-## Secure-By-Design Review Checklist
+## SbD Review Checklist
 
-The Secure-by-Design checklist set is a practical tool for embedding security requirements into the design phase of the software development lifecycle and for ensuring those requirements are verified before implementation. It serves as a clear, concise mechanism for product teams to self‑assess their designs, capture evidence, and internally document their security posture—without introducing unnecessary delays. These checklists are intended primarily for internal team self‑review and as a shared communication tool with the security team in high‑risk projects.
+The Secure-by-Design checklist set is a practical tool for embedding security requirements into the design phase of the software development lifecycle and for ensuring those requirements are verified before implementation. It serves as a clear, concise mechanism for product teams to self‑assess their designs, capture evidence, and internally document their security posture—without introducing unnecessary delays. These checklists are intended primarily for internal team self‑review and as a shared communication tool with the AppSec team in high‑risk projects.
 
 Checklists translate the framework’s principles and recommendations (tab Principals) into actionable, reviewable controls. They ensure that security‑critical aspects are consistently considered, documented, and validated across all projects, regardless of the team’s size, experience, or technology stack. When used systematically, they reduce rework, strengthen the security posture, and enable efficient, scalable collaboration within the team and, where appropriate, with AppSec.
 
@@ -20,7 +20,7 @@ The SbD review checklist is completed by the product team during the design phas
 
 Begin with the full checklist during detailed design sessions—either from the outset of design work or as a dedicated security refinement step—to systematically think through applicable recommendations listed in tab Principal and update the design accordingly. Capture your considerations and decisions either directly within the design artefacts or in a separate security notes document; for internal peer review, assurance, and historical record.
 
-Once these detailed considerations have been addressed, complete the SbD review checklist to sumarize them into a clear, high-level mapping against the security requirements identified earlier. This becomes the main descriptive summary of applied considerations, along with any gaps to address later, and is stored with the project’s artefacts for ongoing reference. Where the project is high‑risk, this document can also support discussions with the AppSec to request guidance or additional assurance. See Escalation and risk thresholds.
+Once these detailed considerations have been addressed, complete the SbD review checklist to summarize them into a clear, high-level mapping against the security requirements identified earlier. This becomes the main descriptive summary of applied considerations, along with any gaps to address later, and is stored with the project’s artefacts for ongoing reference. Where the project is high‑risk, this document can also support discussions with the AppSec to request guidance or additional assurance. See Escalation and risk thresholds.
 
 ### ◽ Checklist Structure
 
@@ -104,7 +104,7 @@ If any critical control is No, or the overall risk score exceeds your team’s t
 
 **Suggested scoring:** Yes \= 0, N-A \= 0 (with justification), No (Low) \= 1, No (Med) \= 2, No (High) \= 4\.  
 **Escalate when:** any critical \= No, or total score ≥ 6, or any trigger from §2.4 applies (new external exposure, sensitive data, novel tech, Tier‑1 impact).  
-**Review scope:** Security team reviews the checklist and linked evidence, advises on mitigations, and may request deeper verification or threat modeling.
+**Review scope:** AppSec team reviews the checklist and linked evidence, advises on mitigations, and may request deeper verification or threat modeling.
 
 ### ◽ Governance and Maintenance
 

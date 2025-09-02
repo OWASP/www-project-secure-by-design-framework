@@ -45,7 +45,7 @@ Modern systems are increasingly distributed, API-driven, and interconnected. Thi
 This project provides a structured, repeatable, and scalable way to align architecture decisions with proven security principles. It empowers:
 
 - **Architects and engineers** to make informed design choices with security built in.
-- **Security teams** to engage earlier, influencing system shape rather than reacting to flaws.
+- **AppSec teams** to engage earlier, influencing system shape rather than reacting to flaws.
 - **Organizations** to meet regulatory and customer trust expectations without slowing delivery.
 
 In short, it shifts security from reactive gatekeeping to proactive enablement, making it part of the natural flow of product design and evolution.
