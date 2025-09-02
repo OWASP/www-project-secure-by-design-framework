@@ -8,4 +8,4 @@ tags: secure-by-design
 
 should be duplicated from catalog/README.md
 
-{% include /catalog/README.md %}
+{% include /catalog.md %}
