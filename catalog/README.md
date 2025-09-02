@@ -1,3 +1,11 @@
+---
+title: test
+layout: null
+tab: true
+order: 6
+tags: secure-by-design
+---
+
 ## Secure-By-Design Best Practices, Patterns & Reference Architectures (Catalog)
 
 The Secure-by-Design Catalog is a practical, growing library of examples that show how to embed security directly into system architecture. It includes both end-to-end reference architectures and smaller, reusable design patterns.

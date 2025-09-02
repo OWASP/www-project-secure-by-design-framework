@@ -3,7 +3,7 @@ title: Principles
 layout: null
 tab: true
 order: 3
-tags: Security-Principles, Security-Recommendations, Design-Principles, Design-Recommendations, Architecture-Principles, Architecture-Recommendations
+tags: secure-by-design
 ---
 
 ## Secure-By-Design Principles & Recommendations
