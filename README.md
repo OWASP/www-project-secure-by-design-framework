@@ -8,13 +8,19 @@ This is the initial draft release – version v0.5.0 (Draft) – August 2025\. T
 
 ## ◽ Quick links:
 
-- SbD Process: see [website](https://owasp.org/www-project-secure-by-design-framework/).
-- SbD Process: [website](https://owasp.org/www-project-secure-by-design-framework/) > Process tab.
-- SbD Principles & Recommendations: [website](https://owasp.org/www-project-secure-by-design-framework/) > Principals tab.
-- SbD Review Checklist: [website](https://owasp.org/www-project-secure-by-design-framework/) > Checklist tab.
-- Catalog: [website](https://owasp.org/www-project-secure-by-design-framework/) > Catalug tab.
-- Download PDF: [OWASP-Secure-by-Design-Framework-v0.5.pdf](/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
+see [website](https://owasp.org/www-project-secure-by-design-framework/) and relevant tabs for:
+
+- SbD Process
+- SbD Principles & Recommendations
+- SbD Review Checklist
+- Catalog
+
+Download PDF: [OWASP-Secure-by-Design-Framework-v0.5.pdf](/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
 
 ## ◽ Contributing:
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution process.
+
+## Changelog
+
+For a detailed history of updates, improvements, and milestones, please see the [CHANGELOG.md](CHANGELOG.md)

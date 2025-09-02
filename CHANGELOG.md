@@ -1,11 +1,11 @@
-# OWASP Secure-by-Design Framework – Changelog
+# Changelog
 
 All notable changes to this project will be documented in this file.  
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and uses [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.5.0] – 2025-08-17
+## [0.5.0] – 29-08-2025
 
 ### Added
 
@@ -23,10 +23,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and 
 
 ### Pre-release history (internal milestones)
 
-- **2025-06-09**:
+- **09-06-2025**:
   - Internal draft of review process and checklist;
   - received OWASP approval for incubation.
-- **2025-01-31**:
+- **31-01-2025**:
   - Initial draft of Secure-by-Design Framework.
   - Defined core principles.
   - Proposed to OWASP for incubation.
