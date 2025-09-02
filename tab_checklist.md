@@ -1,15 +1,9 @@
 ---
-layout: col-sidebar
 title: Checklist
-level: 2
-type: documentation
+layout: null
+tab: true
 order: 4
-tags: Secure-by-design-review, Secure-by-design-review-checklist, Secure-by-designchecklist, Design-review, Design-review-checklist, Design-checklist
-# title: Checklist
-# layout: null
-# tab: true
-# order: 4
-# tags: Secure-by-design-review, Secure-by-design-review-checklist, Secure-by-designchecklist, Design-review, Design-review-checklist, Design-checklist
+tags: secure-by-design
 ---
 
 ## Secure-By-Design Review Checklist
