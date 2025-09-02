@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Secure by Design Framework
-tags: Secure-by-design, Design-security, Architecture-security, architecture-review, design-review, design-security-review,
+tags: secure-by-design
 level: 2
 type: documentation
 pitch: The OWASP Secure-by-Design Framework provides practical guidance to embed security into software architecture from the start—long before code is written.
