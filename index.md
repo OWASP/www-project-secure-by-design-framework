@@ -191,7 +191,7 @@ SbD Principles & Recommendations provide authoritative design-time guidance for 
 
 ## 🔹 SbD Review Checklist
 
-The SbD Review Checklist is a condensed, control-oriented tool for self-review and for communicating with AppSec. It ensures the security requirements are verified before implementation. Each item abstracts key recommendations from the principles into a Yes/No/N-A decision with justification. The full checklist appears on the **Checklist tab**; a CSV download is also provided there.
+The SbD Review Checklist is a condensed, control-oriented tool for self-review and for communicating with AppSec. It ensures the security requirements are verified before implementation. Each item abstracts key recommendations from the principles into a Yes/No/N-A decision with justification. The full checklist appears on the **Checklist tab**.
 
 ---
 
@@ -203,4 +203,4 @@ This is a living catalog of Secure-by-Design examples you can study and reuse. I
 
 ## 🔹 Links
 
-Download the full [Secure-by-Design Framework (PDF)](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true)
+Download the full [Secure-by-Design Framework (PDF)](https://github.com/OWASP/www-project-secure-by-design-framework/blob/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true) for easy offline use.

@@ -35,7 +35,7 @@ Each checklist entry contains:
 
 ### ◽ SbD Review Checklist
 
-This checklist defines the minimum set of controls that every design is expected to address. A CSV version is available at [`checklist.csv`](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/artifacts/OWASP-Secure-by-Design-Checklist.csv?raw=true). Each item abstracts key recommendations from tab Principal, streamlined to support a Yes/No/N-A decision backed by evidence. For each control, teams record _Status_, _Justification_, _Severity_, and _Comments_. Items marked (Critical) are generally required to be Yes at design sign-off, or to have an approved, time-bound mitigation plan in place.
+This checklist defines the minimum set of controls that every design is expected to address. A Xlsx version is available [here](https://github.com/OWASP/www-project-secure-by-design-framework/blob/main/resources/artifacts/OWASP-SbD-Review-Checklist.xlsx?raw=true). Each item abstracts key recommendations from tab Principal, streamlined to support a Yes/No/N-A decision backed by evidence. For each control, teams record _Status_, _Justification_, _Severity_, and _Comments_. Items marked (Critical) are generally required to be Yes at design sign-off, or to have an approved, time-bound mitigation plan in place.
 
 #### A. Architecture & Service Design
 
@@ -114,4 +114,4 @@ Automation is encouraged: repository or CI/CD pipelines can enforce the presence
 
 ### ◽ Links
 
-You can also [download the checklist as a CSV file](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/artifacts/OWASP-Secure-by-Design-Checklist.csv?raw=true) for easy offline use and integration into your team’s workflows.
+You can also [download the checklist as a Xlsx file](https://github.com/OWASP/www-project-secure-by-design-framework/blob/main/resources/artifacts/OWASP-SbD-Review-Checklist.xlsx?raw=true) for easy offline use and integration into your team’s workflows.

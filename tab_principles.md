@@ -290,4 +290,4 @@ The guidance is organized into six domains as follows.
 
 ### ◽ Links
 
-You can also [download the principals as a CSV file](https://github.com/OWASP/www-project-secure-by-design-framework/tree/main/resources/artifacts/OWASP-Secure-by-Design-Principals.csv?raw=true) for easy offline use and integration into your team’s workflows.
+You can also [download the full Secure-by-Design Framework (PDF)](https://github.com/OWASP/www-project-secure-by-design-framework/blob/main/resources/docs/OWASP-Secure-by-Design-Framework-v0.5.pdf?raw=true) for easy offline use.
