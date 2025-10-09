@@ -1,0 +1,25 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-secure-by-design-framework
+    platform: slack
+    url: https://owasp.slack.com/archives/C09CW20BNR4
+leaders:
+  - name: Siamak Hatami
+    email: siya.hatami@gmail.com
+    github: siamakhatami
+level: 2
+name: OWASP Secure by Design Framework
+pitch: The OWASP Secure-by-Design Framework provides practical guidance to embed security into software architecture from the start—long before code is
+  written.
+repositories:
+  - name: www-project-secure-by-design-framework
+    url: https://github.com/OWASP/www-project-secure-by-design-framework
+    description: OWASP Foundation web repository
+tags:
+  - secure-by-design
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-secure-by-design-framework
